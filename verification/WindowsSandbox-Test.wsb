@@ -1,0 +1,14 @@
+<Configuration>
+  <VGpu>Enable</VGpu>
+  <Networking>Disable</Networking>
+  <MappedFolders>
+    <MappedFolder>
+      <HostFolder>..</HostFolder>
+      <SandboxFolder>C:\Users\WDAGUtilityAccount\Desktop\SSR_Release</SandboxFolder>
+      <ReadOnly>true</ReadOnly>
+    </MappedFolder>
+  </MappedFolders>
+  <LogonCommand>
+    <Command>powershell.exe -NoExit -ExecutionPolicy Bypass -File "C:\Users\WDAGUtilityAccount\Desktop\SSR_Release\verification\Verify-CleanWindowsVM.ps1" -ZipPath "C:\Users\WDAGUtilityAccount\Desktop\SSR_Release\releases\v2.0.0-rc.1\SpringSecurityReviewer-v2.0.0-rc.1-Windows-x64.zip" -SumsPath "C:\Users\WDAGUtilityAccount\Desktop\SSR_Release\SHA256SUMS.txt"</Command>
+  </LogonCommand>
+</Configuration>

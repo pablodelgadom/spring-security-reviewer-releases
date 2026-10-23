@@ -1,0 +1,118 @@
+================================================================================
+SPRING SECURITY REVIEWER DESKTOP — PROPRIETARY FREEWARE LICENSE AGREEMENT (EULA)
+ACUERDO DE LICENCIA DE SOFTWARE PROPIETARIO GRATUITO (FREEWARE)
+================================================================================
+
+Copyright (c) 2026 Pablo Delgado / Spring Security Reviewer Maintainers.
+All Rights Reserved / Todos los derechos reservados.
+
+--------------------------------------------------------------------------------
+ESPAÑOL — TÉRMINOS DE LA LICENCIA
+--------------------------------------------------------------------------------
+
+1. NATURALEZA DEL SOFTWARE Y PROPIEDAD INTELECTUAL
+Spring Security Reviewer Desktop (el "Software"), incluyendo su motor de análisis
+estático (SAST), catálogo de reglas de seguridad, motor heurístico determinista,
+interfaz gráfica, documentación e informes generados, es software propietario
+protegido por las leyes de propiedad intelectual y derechos de autor. El código
+fuente del Software es privado y confidencial, y NO se publica bajo una licencia
+de código abierto.
+
+2. CONCESIÓN DE LICENCIA GRATUITA (FREEWARE — 0 €)
+El titular de los derechos concede al usuario una licencia mundial, gratuita,
+no exclusiva, intransferible y revocable para:
+  a) Descargar, instalar y ejecutar los binarios oficiales sin modificar del
+     Software en equipos Windows para uso personal, académico, de investigación
+     o profesional/comercial interno (incluyendo la auditoría de aplicaciones
+     propias o de terceros bajo autorización).
+  b) Utilizar, copiar y compartir sin restricciones los informes de auditoría,
+     parches de remediación y plantillas de prueba JUnit 5 / MockMvc generados
+     por el Software durante su uso legítimo.
+
+3. RESTRICCIONES EXPRESAS
+Queda estrictamente prohibido, salvo autorización previa y por escrito del
+titular de los derechos:
+  a) Realizar ingeniería inversa, descompilar, desensamblar o intentar extraer
+     el código fuente o las reglas internas del Software, salvo en la medida en
+     que dicha actividad esté expresamente permitida por la legislación
+     imperativa aplicable.
+  b) Modificar, adaptar, traducir, crear obras derivadas o alterar los archivos
+     ejecutables del Software.
+  c) Vender, alquilar, arrendar, sublicenciar, comercializar o explotar el
+     Software como un servicio comercial en la nube (SaaS) o producto de pago.
+  d) Eliminar, ocultar o alterar los avisos de copyright, marcas, sumas de
+     verificación (SHA-256) o avisos de terceros incluidos en el paquete.
+
+4. COMPONENTES DE CÓDIGO ABIERTO DE TERCEROS
+Esta distribución portable incluye bibliotecas y tiempos de ejecución de código
+abierto de terceros (ubicados en el directorio `_internal`). Dichos componentes
+de terceros conservan sus respectivas licencias originales de código abierto
+(PSF-2.0, MIT, BSD-3-Clause, Apache-2.0, ISC, Tcl/Tk, zlib, MPL-2.0 y la
+Excepción Especial del Bootloader de PyInstaller), cuyos avisos y textos
+completos se detallan en el archivo `THIRD_PARTY_NOTICES.txt` adjunto. Nada en
+este acuerdo limita los derechos que usted pueda tener sobre dichos componentes
+de terceros bajo sus respectivas licencias.
+
+5. EXCLUSIÓN DE GARANTÍAS Y LIMITACIÓN DE RESPONSABILIDAD
+EL SOFTWARE SE PROPORCIONA "TAL CUAL" ("AS IS"), SIN GARANTÍA DE NINGÚN TIPO,
+EXPRESA O IMPLÍCITA, INCLUYENDO, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIABILIDAD,
+IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y AUSENCIA DE INFRACCIÓN. EL SOFTWARE ES
+UNA HERRAMIENTA DE ASISTENCIA EN AUDITORÍA ESTÁTICA Y NO GARANTIZA LA DETECCIÓN
+DE TODAS LAS VULNERABILIDADES DE SEGURIDAD. EN NINGÚN CASO LOS AUTORES O
+TITULARES DEL COPYRIGHT SERÁN RESPONSABLES DE NINGÚN RECLAMO, DAÑO O CUALQUIER
+OTRA RESPONSABILIDAD DERIVADA DEL USO DEL SOFTWARE.
+
+--------------------------------------------------------------------------------
+ENGLISH — LICENSE TERMS
+--------------------------------------------------------------------------------
+
+1. OWNERSHIP & PROPRIETARY SOURCE CODE
+Spring Security Reviewer Desktop (the "Software"), including its Static
+Application Security Testing (SAST) engine, security ruleset, deterministic
+heuristic engine, graphical user interface, and documentation, is proprietary
+software protected by copyright and intellectual property laws. The source code
+of the Software is private and closed-source; it is NOT licensed under an
+open-source license.
+
+2. FREEWARE LICENSE GRANT ($0 COST)
+Subject to the terms of this Agreement, the copyright holder grants you a
+worldwide, royalty-free, non-exclusive, non-transferable, revocable license to:
+  a) Download, install, and execute the unmodified official binary distribution
+     of the Software on Windows systems for personal, academic, research, or
+     internal commercial/professional use (including auditing your own or
+     authorized client applications).
+  b) Freely use, modify, and distribute the security audit reports, remediation
+     patches, and JUnit 5 / MockMvc test templates generated as output by the
+     Software.
+
+3. RESTRICTIONS
+Except as expressly permitted by mandatory applicable law or by prior written
+consent from the copyright holder, you may NOT:
+  a) Reverse engineer, decompile, disassemble, or attempt to derive the source
+     code or internal ruleset of the Software.
+  b) Modify, patch, adapt, or create derivative works based on the Software
+     binaries.
+  c) Sell, rent, lease, sublicense, redistribute for a fee, or offer the
+     Software as a managed commercial cloud service (SaaS).
+  d) Remove, obscure, or alter any copyright notices, trademarks, SHA-256
+     checksums, or third-party attribution files bundled with the Software.
+
+4. THIRD-PARTY OPEN-SOURCE COMPONENTS
+This portable distribution bundles third-party open-source runtime libraries
+(located within the `_internal` directory). Those third-party components remain
+governed by their respective open-source licenses (PSF-2.0, MIT, BSD-3-Clause,
+Apache-2.0, ISC, Tcl/Tk, zlib, MPL-2.0, and the PyInstaller Bootloader
+Exception), as documented in `THIRD_PARTY_NOTICES.txt`. Nothing in this
+Agreement restricts your rights under the licenses applicable to those
+third-party components.
+
+5. DISCLAIMER OF WARRANTY & LIMITATION OF LIABILITY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. THE SOFTWARE IS A STATIC
+ANALYSIS ASSISTANCE TOOL AND DOES NOT GUARANTEE THE ABSENCE OF SECURITY
+VULNERABILITIES IN ANALYZED CODE. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+================================================================================

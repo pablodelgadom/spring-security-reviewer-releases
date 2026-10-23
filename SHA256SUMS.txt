@@ -1,0 +1,2 @@
+98d0e9c35e65dfecaeee16c66fffdace4a7bc0465f10989c16e48cec2af370d7  SpringSecurityReviewer-v2.0.0-rc.1-Windows-x64.zip
+37c38d595114daf301828fc0a1db97c02751210b13ba144a5389009cdaf8de1c  SpringSecurityReviewerDesktop/SpringSecurityReviewerDesktop.exe

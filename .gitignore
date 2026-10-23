@@ -1,0 +1,3 @@
+﻿# Binary release archives are attached to GitHub Releases, not tracked in Git history
+releases/
+*.tmp
